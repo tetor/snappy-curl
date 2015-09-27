@@ -1,3 +1,3 @@
-# curl for Snappy Bbuntu Core
+# curl for Snappy Ubuntu Core
 
 wip. Can anybody help me?
