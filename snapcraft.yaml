@@ -1,7 +1,0 @@
-name: curl
-version: 0.1.0
-# The vendor for the snap (replace 'Vendor <email@example.com>')
-vendor: tetor <tetor.takashi.etou@gmail.com>
-summary: curl snappy framework
-description: This is wip. Do not use plz.
-icon: # A path to an icon for the package
