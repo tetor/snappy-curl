@@ -1,3 +1,1 @@
-# curl for Snappy Ubuntu Core
-
-wip. Can anybody help me?
+# cURL for Snappy Ubuntu Core

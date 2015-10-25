@@ -3,7 +3,7 @@ version: 0.1.0
 # The vendor for the snap (replace 'Vendor <email@example.com>')
 vendor: tetor <tetor.takashi.etou@gmail.com>
 summary: cURL snappy framework
-description: This is wip. Do not use plz
+description: cURL for Snappy Ubuntu Core
 icon: icon.png # A path to an icon for the package
 type: framework
 binaries:
