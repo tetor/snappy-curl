@@ -1,5 +1,5 @@
 name: curl
-version: 0.1.0
+version: 0.1.1
 # The vendor for the snap (replace 'Vendor <email@example.com>')
 vendor: tetor <tetor.takashi.etou@gmail.com>
 summary: cURL snappy framework
