@@ -2,4 +2,4 @@
 
 # cURL for Snappy Ubuntu Core
 
-NOTE: You can use this, please enter `curl.curl`; not `curl`.
+You can use this `curl.curl` not `curl`.
