@@ -1,8 +1,9 @@
 name: curl
-version: 0.1.10
+version: 10.0.0
 vendor: tetor <tetor.takashi.etou@gmail.com>
 icon: icon.png
 architectures: [amd64]
+type: framework
 binaries:
   - name: curl
     exec: bin/curl
